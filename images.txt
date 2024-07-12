@@ -2,4 +2,4 @@ redis:7.0.14-alpine
 horizoncd/horizon-core:v2.11.1
 registry:2.8.1
 horizoncd/horizon-web:v2.6.6
-ingress-nginx/kube-webhook-certgen:v1.4.1@sha256:36d05b4077fb8e3d13663702fa337f124675ba8667cbd949c03a8e8ea6fa4366
+ingress-nginx/kube-webhook-certgen:v1.4.1
