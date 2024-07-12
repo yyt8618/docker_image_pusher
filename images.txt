@@ -5,3 +5,5 @@ registry.k8s.io/ingress-nginx/controller:v1.8.4@sha256:8d8ddf32b83ca3e74bd5f6636
 docker.io/bitnami/minio:2022.10.29-debian-11-r0
 maven:3.8.6-amazoncorretto-17 
 amazoncorretto:17
+goharbor/redis-photon:v2.2.3
+
