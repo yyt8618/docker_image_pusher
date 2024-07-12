@@ -3,3 +3,5 @@ rancher/mirrored-ingress-nginx-kube-webhook-certgen:v20231011-8b53cabe0
 chainguard/ingress-nginx-controller:latest
 registry.k8s.io/ingress-nginx/controller:v1.8.4@sha256:8d8ddf32b83ca3e74bd5f66369fa60d85353e18ff55fa7691b321aa4716f5ba9
 docker.io/bitnami/minio:2022.10.29-debian-11-r0
+maven:3.8.6-amazoncorretto-17 
+amazoncorretto:17
