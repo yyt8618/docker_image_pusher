@@ -1,2 +1,2 @@
 registry:2.8.1
-google_containers/kube-webhook-certgen:v1.4.1
+rancher/mirrored-ingress-nginx-kube-webhook-certgen:v1.4.1
