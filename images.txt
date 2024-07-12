@@ -1,2 +1,3 @@
 registry:2.8.1
 ingress-nginx/kube-webhook-certgen:v1.4.1
+google_containers/kube-webhook-certgen:v1.4.1
