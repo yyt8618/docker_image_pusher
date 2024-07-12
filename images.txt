@@ -1,2 +1,4 @@
 registry:2.8.1
 rancher/mirrored-ingress-nginx-kube-webhook-certgen:v1.4.1
+chainguard/ingress-nginx-controller:latest
+
