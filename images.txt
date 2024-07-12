@@ -1,1 +1,4 @@
 redis:7.0.14-alpine
+horizoncd/horizon-core:v2.11.1
+registry:2.8.1
+horizoncd/horizon-web:v2.6.6
