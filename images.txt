@@ -17,5 +17,5 @@ jimmidyson/configmap-reload:v0.4.0
 prom/prometheus:v2.21.0
 gitlab/gitlab-runner:alpine-v14.6.0
 registry.gitlab.com/gitlab-org/gitlab-runner:alpine-v17.1.0
-
+alpine
 
