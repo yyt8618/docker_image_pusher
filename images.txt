@@ -1,2 +1,1 @@
-registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ee:v17.1.2
-registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ee:v17.1.2
+registry.gitlab.com/gitlab-org/gitlab-runner:alpine-v17.1.0
