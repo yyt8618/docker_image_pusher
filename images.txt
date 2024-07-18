@@ -1,2 +1,2 @@
 gcr.io/kubebuilder/kube-rbac-proxy:v0.14.1
-
+registry.gitlab.com/gitlab-org/build/cng/gitlab-base:v17.1.2
