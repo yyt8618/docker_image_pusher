@@ -1,1 +1,2 @@
-centos:centos7
+ghcr.io/spidernet-io/spiderpool/spiderpool-agent:v0.9.4
+ghcr.io/spidernet-io/spiderpool/spiderpool-controller:v0.9.4
