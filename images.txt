@@ -1,2 +1,2 @@
-cilium/cilium:v1.14.1
-cilium/cilium-operator:v1.14.1
+quay.io/cilium/cilium:v1.14.1
+quay.io/cilium/cilium-operator:v1.14.1
