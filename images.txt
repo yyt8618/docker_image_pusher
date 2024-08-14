@@ -1,1 +1,1 @@
-docker.io/cilium/operator-generic:v1.14.1
+centos/tools:latest
