@@ -1,1 +1,4 @@
-centos/tools:latest
+docker.io/kubeovn/kube-ovn:v1.12.21
+docker.io/kubeovn/kube-ovn-dpdk:v1.12.21
+docker.io/kubeovn/kube-ovn:v1.12.21-dpdk
+docker.io/kubeovn/vpc-nat-gateway:v1.12.21
