@@ -1,4 +1,2 @@
-docker.io/kubeovn/kube-ovn:v1.12.21
-docker.io/kubeovn/kube-ovn-dpdk:19.11-v1.12.21
-docker.io/kubeovn/kube-ovn:v1.12.21-dpdk
-docker.io/kubeovn/vpc-nat-gateway:v1.12.21
+
+oamdev/kube-webhook-certgen:v2.4.1
