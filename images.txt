@@ -1,4 +1,3 @@
+oamdev/velaux:v1.8.1
 
-oamdev/cluster-gateway:v1.8.0
-oamdev/vela-core:v1.8.2
 
