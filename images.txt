@@ -1,1 +1,1 @@
-rancher/mirrored-coreos-etcd:v3.5.4
+rancher/mirrored-pause:3.6
