@@ -1,1 +1,1 @@
-rancher/calico-cni:v3.22.0-rancher1
+rancher/mirrored-calico-pod2daemon-flexvol:v3.22.0
