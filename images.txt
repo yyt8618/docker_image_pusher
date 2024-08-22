@@ -1,1 +1,1 @@
-rancher/mirrored-pause:3.6
+rancher/calico-cni:v3.22.0-rancher1
