@@ -1,1 +1,2 @@
-rancher/mirrored-calico-node:v3.22.0
+registry.k8s.io/etcd:3.5.13-0
+
