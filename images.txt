@@ -1,2 +1,2 @@
-registry.k8s.io/etcd:3.5.13-0
-
+quay.io/argoproj/argocd:v2.7.0
+redis:7.0.11-alpine
