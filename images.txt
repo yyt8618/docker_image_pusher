@@ -1,3 +1,1 @@
-gcr.io/heptio-images/ks-guestbook-demo:0.1
-alpine:latest
-nginx:latest
+gcr.io/heptio-images/ks-guestbook-demo:0.2
