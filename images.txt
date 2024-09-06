@@ -1,1 +1,1 @@
-mysql:5.7
+banzaicloud/eventrouter:v0.1.0
