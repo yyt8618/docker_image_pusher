@@ -1,1 +1,1 @@
-banzaicloud/eventrouter:v0.1.0
+apache/hertzbeat:latest
