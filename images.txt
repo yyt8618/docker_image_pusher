@@ -1,1 +1,1 @@
-apache/hertzbeat:latest
+apache/hertzbeat-collector:latest
