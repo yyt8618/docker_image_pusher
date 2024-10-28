@@ -1,1 +1,3 @@
-python:2.7.18
+victoriametrics/vmstorage:v1.102.1-cluster
+victoriametrics/vminsert:v1.102.1-cluster
+victoriametrics/vmselect:v1.102.1-cluster
