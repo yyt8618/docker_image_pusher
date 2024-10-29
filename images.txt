@@ -1,5 +1,2 @@
-holoinsight/otelcontribcol:latest
-ceresdb/ceresdb-server:v1.0.0
-elasticsearch:7.16.1
-mysql:8
-holoinsight/server:latest
+mongo:4.4.18
+prom/prometheus:latest
