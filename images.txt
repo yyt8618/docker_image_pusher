@@ -1,3 +1,5 @@
-victoriametrics/vmstorage:v1.102.1-cluster
-victoriametrics/vminsert:v1.102.1-cluster
-victoriametrics/vmselect:v1.102.1-cluster
+holoinsight/otelcontribcol:latest
+ceresdb/ceresdb-server:v1.0.0
+elasticsearch:7.16.1
+mysql:8
+holoinsight/server:latest
