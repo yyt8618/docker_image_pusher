@@ -1,1 +1,3 @@
-bitnami/kubectl
+victoriametrics/vmstorage:v1.103.1-cluster
+victoriametrics/vminsert:v1.103.1-cluster
+victoriametrics/vmselect:v1.103.1-cluster
