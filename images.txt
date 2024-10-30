@@ -1,1 +1,1 @@
-grafana:v10.0
+grafana/grafana:v11.2.0
