@@ -1,2 +1,2 @@
-prom/alertmanager:v0.25.0
-jimmidyson/configmap-reload:v0.3.0
+victoriametrics/vmalert:v1.103.0
+victoriametrics/vmsingle:v1.103.0
