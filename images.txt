@@ -1,2 +1,1 @@
-victoriametrics/vmalert:v1.103.0
-victoriametrics/vmsingle:v1.103.0
+ docker.io/grafana/grafana:11.1.0
