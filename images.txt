@@ -1,3 +1,1 @@
-victoriametrics/vmstorage:v1.103.0-cluster
-victoriametrics/vminsert:v1.103.0-cluster
-victoriametrics/vmselect:v1.103.0-cluster
+quay.io/kiwigrid/k8s-sidecar:1.27.4
