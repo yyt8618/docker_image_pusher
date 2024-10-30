@@ -1,3 +1,1 @@
-registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.10.1
-victoriametrics/operator:v0.46.4
-docker.io/curlimages/curl:7.85.0
+victoriametrics/vmagent:v1.103.0
