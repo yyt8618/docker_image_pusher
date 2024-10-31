@@ -1,1 +1,1 @@
-k8s.gcr.io/e2e-test-images/agnhost:2.39
+quay.io/prometheus/node-exporter:v1.7.0
