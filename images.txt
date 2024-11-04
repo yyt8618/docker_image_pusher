@@ -1,1 +1,1 @@
-grafana/grafana:10.2.2
+docker.io/curlimages/curl:7.85.0
