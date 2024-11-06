@@ -1,1 +1,1 @@
-docker.io/curlimages/curl:7.85.0
+docker.io/ggservers/java21:latest
