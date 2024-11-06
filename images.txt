@@ -1,1 +1,2 @@
 docker.io/ggservers/java21:latest
+docker.io/nginx:latest
