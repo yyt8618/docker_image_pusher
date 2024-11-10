@@ -4,3 +4,5 @@ docker.io/nacos/nacos-server
 docker.io/williamyeh/java8
 docker.io/nacos/nacos-mysql:5.7
 docker.io/rabbitmq:4.0-management
+docker.io/bitnami/nginx-ingress-controller:1.9.1
+docker.io/dyrnq/kube-webhook-certgen:v20230407
