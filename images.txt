@@ -8,4 +8,4 @@ docker.io/bitnami/nginx-ingress-controller:1.9.1
 docker.io/dyrnq/kube-webhook-certgen:v20230407
 docker.io/burlyluo/nettool
 docker.io/istio/pilot:1.24.0
-docker.io/proxyv2:1.24.0
+docker.io/istio/proxyv2:1.24.0
