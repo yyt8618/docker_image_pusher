@@ -10,3 +10,4 @@ docker.io/burlyluo/nettool
 docker.io/istio/pilot:1.24.0
 docker.io/istio/proxyv2:1.24.0
 docker.io/rudransh404/hplip-printer-app:latest
+docker.io/multiarch/qemu-user-static:xtensaeb-7.2.0-1
